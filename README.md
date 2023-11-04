@@ -24,16 +24,16 @@ docker compose up --build
 ## 🔷​ Frontend
 ### Pages
 - Login
-<img src="https://github.com/mtellami/ft_transcendence/blob/master/preview/login.png" />
+<img src="https://github.com/iel-mach/ft_transcendence/blob/master/preview/login.png" />
 
 - Profile
 <img src="https://github.com/mtellami/ft_transcendence/blob/master/preview/profile.png" />
 
 - Chat
-<img src="https://github.com/mtellami/ft_transcendence/blob/master/preview/chat.png" />
+<img src="https://github.com/iel-mach/ft_transcendence/blob/master/preview/chat.png" />
 
 - Game
-<img src="https://github.com/mtellami/ft_transcendence/blob/master/preview/game.png" />
+<img src="https://github.com/iel-mach/ft_transcendence/blob/master/preview/profile.png" />
 
 ## 🔷​ Backend
 The server is responsible for providing necessary data (CRUD from the database ) on different endpoints and handles the game matchmaking system, broadcast messages on chat rooms and DM, live game coordinates, and more ...
@@ -220,4 +220,4 @@ model Friendship {
 - <a href="https://github.com/Sagittariu5A">Jaouad Chakir</a>
 - <a href="https://github.com/mihlane">Mohammed Habibi Ihlane</a>
 - <a href="https://github.com/mustapha-belbiad">Mustapha Belbiad</a>
-- <a href="https://github.com/iel-mach">Issam El machkour</a>
+- <a href="https://github.com/mtellami">Moad Tellami</a>
